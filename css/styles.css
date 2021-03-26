@@ -43,13 +43,13 @@ hr{
 }
 .top-cloud {
   position: absolute;
-  right: 400px;
-  top: 60px;
+  right: 15%;
+  top: 10%;
 }
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 15%;
+  bottom: 55%;
 }
 .profile{
   width: 30%;
